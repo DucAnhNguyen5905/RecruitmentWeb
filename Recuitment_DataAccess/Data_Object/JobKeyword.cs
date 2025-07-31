@@ -15,6 +15,5 @@ namespace Recuitment_DataAccess.Data_Object
         public int Job_Keywords_ID { get; set; }
         public string? Keywords { get; set; }
 
-        public ICollection<JobPost> JobPosts { get; set; } = new List<JobPost>();
     }
 }

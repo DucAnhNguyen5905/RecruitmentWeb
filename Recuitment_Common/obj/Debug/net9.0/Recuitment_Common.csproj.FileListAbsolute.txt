@@ -10,3 +10,15 @@ C:\Users\LENOVO\source\repos\Recuitment_Common\obj\Debug\net9.0\refint\Recuitmen
 C:\Users\LENOVO\source\repos\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.pdb
 C:\Users\LENOVO\source\repos\Recuitment_Common\obj\Debug\net9.0\ref\Recuitment_Common.dll
 C:\Users\LENOVO\source\repos\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.sourcelink.json
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\bin\Debug\net9.0\Recuitment_Common.deps.json
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\bin\Debug\net9.0\Recuitment_Common.dll
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\bin\Debug\net9.0\Recuitment_Common.pdb
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.sourcelink.json
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.dll
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\refint\Recuitment_Common.dll
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\Recuitment_Common.pdb
+C:\Users\LENOVO\source\repos\Web_Recruitment\Recuitment_Common\obj\Debug\net9.0\ref\Recuitment_Common.dll

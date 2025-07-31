@@ -15,7 +15,7 @@ namespace Recuitment_DataAccess.Data_Object
         public int Post_ID { get; set; }
         public int Employer_ID { get; set; }
 
-        public int Company_ID { get; set; }
+
 
         public string? Job_Title { get; set; }
 
@@ -33,7 +33,6 @@ namespace Recuitment_DataAccess.Data_Object
         public int Job_Location_ID { get; set; }
         public int CV_Language_ID { get; set; }
 
-        public ICollection<JobKeyword> JobKeywords { get; set; } = new List<JobKeyword>();
 
     }
 }

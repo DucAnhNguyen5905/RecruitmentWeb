@@ -1,4 +1,4 @@
-﻿    using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -13,8 +13,10 @@ namespace Recuitment_DataAccess.Data_Object
     {
         [Key]
         public int Post_ID { get; set; }
+        public JobPost? JobPost { get; set; }
+
+        [Key]
         public int Job_Keywords_ID { get; set; }
-
-
+        public JobKeyword? JobKeyword { get; set; }
     }
 }

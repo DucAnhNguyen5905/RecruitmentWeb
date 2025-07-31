@@ -42,7 +42,6 @@ namespace Recuitment_DataAccess.Repository
                 {
                     Post_ID = jobPostInsert_Request.Post_ID,
                     Employer_ID = jobPostInsert_Request.Employer_ID,
-                    Company_ID = jobPostInsert_Request.Company_ID,
                     Job_Title = jobPostInsert_Request.Job_Title,
                     Job_Description = jobPostInsert_Request.Job_Description,
                     Job_Requirements = jobPostInsert_Request.Job_Requirements,
