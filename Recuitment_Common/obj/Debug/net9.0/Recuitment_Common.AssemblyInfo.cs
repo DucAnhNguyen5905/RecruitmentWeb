@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recuitment_Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2670f04e8f4293e11cae6b55a9d0fcf465930e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1834a667dc1e9fbac777c4b370ca0ffc7596657e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recuitment_Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recuitment_Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
